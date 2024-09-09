@@ -1,0 +1,17 @@
+{
+    "dft_filter_radius": 34,
+    "inside_outline": {
+        "center_x": -532113,
+        "center_y": -263003,
+        "radius_x": 0,
+        "radius_y": 0
+    },
+    "outside_outline": {
+        "center_x": 3090,
+        "center_y": 1816.5,
+        "radius_x": 542,
+        "radius_y": 542
+    },
+    "regions": [
+    ]
+}
